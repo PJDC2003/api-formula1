@@ -1,3 +1,3 @@
-### Criação de uma Minimal API da Fórmula 1 com Node.JS e Fastify
+### Creation of a Minimal F1 API with Node.JS and Fastify
 
-Desenvolvimento de uma API leve e eficiente para aplicações web e móveis, utilizando Node.JS e Fastify. Esta API simplificada foca em operações CRUD básicas, ideal para projetos que necessitam de respostas rápidas e um ambiente minimalista.
+Development of a lightweight and efficient API for web and mobile applications using Node.JS and Fastify. This streamlined API focuses on basic CRUD operations, making it ideal for projects that require fast responses and a minimalist environment.
